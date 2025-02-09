@@ -58,10 +58,6 @@ To deploy your project, you can use **Vercel, Netlify, or GitHub Pages**.
  vercel
 ```
 
-```
-
-
----
 
 💡 **Suggestions or Issues?** Feel free to open an issue or contribute! 😊
 
